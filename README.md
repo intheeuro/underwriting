@@ -1,3 +1,3 @@
 # underwriting
 
-Initate underwriting algorithm python files
+Initiate underwriting algorithm python files
